@@ -12,9 +12,9 @@ namespace Demo
         {
             Console.WriteLine("hello world uc1");
         }
-        public void MyMethodUC2() 
+        public void MyMethodUC2(string s1) 
         {
-            Console.WriteLine("hello world uc2 ");
+            Console.WriteLine(s1);
         }
     }
 }

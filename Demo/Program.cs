@@ -9,7 +9,7 @@ namespace Demo
             UC1.MyMethodUC1();
             UC1 uC1 = new UC1();
 
-            uC1.MyMethodUC2();
+            uC1.MyMethodUC2("hello world uc2 ");
 
         }
     }
