@@ -10,11 +10,11 @@ namespace Demo
     {
         public static void MyMethodUC1(string s1)
         {
-            Console.WriteLine(s1);
+            Console.WriteLine(s1+" for uc4");
         }
         public void MyMethodUC2(string s1) 
         {
-            Console.WriteLine(s1);
+            Console.WriteLine(s1+" for uc4");
         }
     }
 }
