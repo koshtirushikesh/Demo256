@@ -8,9 +8,9 @@ namespace Demo
 {
     public class UC1
     {
-        public static void MyMethodUC1()
+        public static void MyMethodUC1(string s1)
         {
-            Console.WriteLine("hello world uc1");
+            Console.WriteLine(s1);
         }
         public void MyMethodUC2(string s1) 
         {
